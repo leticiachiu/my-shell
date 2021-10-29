@@ -1,0 +1,4 @@
+ls | sort -r
+ps
+ps > saida
+exit
